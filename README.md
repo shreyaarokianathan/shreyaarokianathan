@@ -41,10 +41,11 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab" />
     <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-1024x1024-1hv3ysgx.png" alt="Verilog" width="48" height="48" />
     <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" alt="VHDL" width="48" height="48" />
+    <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="Solidworks" width="48" height="48" />
     <img src="https://dl.flathub.org/media/com/github/corna.Vivado/07ad2cd5a0a53383dce2081f799f9726/icons/128x128@2/com.github.corna.Vivado.png" alt="Vivado" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=github,docker,git" />
     <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,linux,arduino,mysql,aws,firebase,vscode" />
-    <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="Solidworks" width="48" height="48" />
+    
 <br>
 </div>
 
